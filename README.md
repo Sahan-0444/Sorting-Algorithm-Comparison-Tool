@@ -44,10 +44,10 @@ The **Data Sorter** is a console-based Java program that implements and compares
 ### Option 1 — Using VS Code
 1. Open the project folder (`CIT300-DataSorter`) in **VS Code**.  
 2. Make sure the **Java Extension Pack** is installed.  
-3. Open the file `Member1_BubbleSort.java`.  
+3. Open the file `#`.  
 4. Click **Run ▶️** at the top-right corner or press `Ctrl + F5`.
 
 ### Option 2 — Using Command Line
 ```bash
-javac Member1_BubbleSort.java
-java BubbleSort
+javac App.java
+java App
