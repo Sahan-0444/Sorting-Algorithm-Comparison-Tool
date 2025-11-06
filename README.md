@@ -30,13 +30,6 @@ The **Data Sorter** is a console-based Java program that implements and compares
 
 ---
 
-## ⚙️ Features (Current Status)
-| Feature | Description | Status |
-|:--------|:-------------|:-------:|
-| Bubble Sort | Sorts array using Bubble Sort and counts steps | ✅ Completed (Member 1) |
-| Merge Sort | To be implemented by Member 2 | ⏳ Pending |
-| Quick Sort | To be implemented by Member 3 | ⏳ Pending |
-| Data Handling & UI | Menu, random data, comparison table | ⏳ Pending |
 
 ---
 
